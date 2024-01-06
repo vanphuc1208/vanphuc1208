@@ -1,6 +1,7 @@
-<img align="right" alt="Coding" width="400" src="https://siliconova.com/assets/img/rtl.jpg">
+
 <h1 align="center">Hi 👋, I'm Le Van Phuc</h1>
 <h3 align="center">A passionate RTL-design engineer</h3>
+<img align="right" alt="Coding" width="400" src="https://siliconova.com/assets/img/rtl.jpg">
 
 - 🔭 I’m currently studying at **HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY**
 
