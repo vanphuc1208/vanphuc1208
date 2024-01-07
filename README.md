@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY**
 
-- 🌱 I’m currently learning **Verilog, SystemVerilog, Shell Scripting **
+- 🌱 I’m currently learning **Verilog,SystemVerilog,Shell Scripting **
 
 - 📄 Here is my resume [updating](updating)
 
