@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Le Van Phuc</h1>
-<h3 align="center">I want to be a passionate RTL or FPGA engineer</h3>
+<h3 align="center">I want to be a passionate logic design engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://vina-aspire.com/wp-content/uploads/2023/10/Tuyen-dung-ky-su-thiet-ke-Chip-FSEMI-%E2%80%93-Physical-Design-Engineer-2.jpg">
 
 - 🔭 I’m currently studying at **HO CHI MINH CITY UNIVERSITY OF TECHNOLOGY**
