@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Verilog, SystemVerilog, Shell Scripting**
 
-- 📄 Here is my resume [updating](https://drive.google.com/file/d/1WCFVIE8pJU81vvn5fajohjLin_N3n03u/view?usp=sharing)
+- 📄 Here is my [resume](https://drive.google.com/file/d/1WCFVIE8pJU81vvn5fajohjLin_N3n03u/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
